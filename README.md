@@ -22,8 +22,4 @@ Tasks:
 
 
 
-TO DO:
 
-Q3 - anubh
-Q4(A) - lavish
-Q4(B) - ruchit
