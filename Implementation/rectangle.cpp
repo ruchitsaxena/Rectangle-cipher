@@ -208,7 +208,7 @@ string encryptstr(string s)
         state[(i+3)%4] = i + 3 < n ? (bit16)s[i+3] : 0;
         // printstate(state);
         // cout << "\n";
-        // encrypt(state , key);
+        encrypt(state , key);
         // printstate(state);
         // cout << "\n";
         // cout << (char)state[i%4] << (char)state[(i+1)%4] << (char)state[(i+2)%4] << (char)state[(i+3)%4];
